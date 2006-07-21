@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cached.jsp
+Disallow: cached.jsp
